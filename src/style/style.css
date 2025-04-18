@@ -1,0 +1,23 @@
+main{
+    background-color: rgb(44, 44, 61);
+    font: 24px Arial, sans-serif;
+    color: white;
+    height: 1500px;
+}
+
+header{
+    background-color: rgb(57, 57, 80);
+    font: 24px Arial, sans-serif;
+    color: white;
+}
+
+a{
+    font: 24px Arial, sans-serif;
+    color: rgb(224, 224, 224);
+    text-decoration: none;
+}
+
+a:hover{
+    font: 24px Arial, sans-serif;
+    color: rgb(255, 255, 255);
+}
